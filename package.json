@@ -14,7 +14,7 @@
     "react",
     "redux"
   ],
-  "author": "Jean-Pierre Sierens",
+  "author": "Naresh Miriyal",
   "license": "MIT",
   "dependencies": {
     "file-loader": "^0.9.0",
