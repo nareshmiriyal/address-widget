@@ -59,5 +59,12 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1" 
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nareshmiriyal/address-widget.git"
+},"bugs": {
+    "url": "https://github.com/nareshmiriyal/address-widget/issues"
+},
+ "homepage": "https://github.com/nareshmiriyal/address-widget#readme"
 }
